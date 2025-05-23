@@ -5,7 +5,7 @@ This is my GitHub profile, where I'm documenting my journey in software developm
 ---
 
 * 🔭 Currently, I'm focusing on streamlining work processes and brainstorming new app ideas.
-* 🌱 I'm diving deeper into **JavaScript**, **TypeScript**, and **Node.js**.
+* 🌱 I'm diving deeper into **JavaScript**, **TypeScript**, **Next.js** and **Node.js**.
 * 👯 Let's collaborate on creating functional and impactful apps that users will love!
 * 📚 I have worked mostly in **Python**, **Java**, **C#**, **SQL**, and **JavaScript**.
 * 🤔 Always open to guidance on developing my skills and finding the best path forward.
