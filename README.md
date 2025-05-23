@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Daniel Deleon, and welcome to my GitHub! I'm a creator passionate about software development and excited to share my journey here. I recently earned my Master's of Applied Computer Science from Columbus State University, and have been working in accounting for the prior 10 years.
+Hello there! I'm Daniel Deleon, and this is my GitHub profile, where I'm documenting my journey in software development. I recently earned a Master's of Applied Computer Science from Columbus State University. Currently, my professional background includes over twelve years in accounting, a field I am still actively engaged in.
 
 ---
 
